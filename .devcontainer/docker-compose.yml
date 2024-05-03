@@ -1,0 +1,8 @@
+services:
+  app:
+    image: rust:1.78
+    restart: always
+    tty: true
+    volumes:
+      - ../:/workspace
+    working_dir: /workspace
