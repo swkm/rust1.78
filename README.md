@@ -1,1 +1,1 @@
-# rust1.78
+# rust1.78 devcontainer template
